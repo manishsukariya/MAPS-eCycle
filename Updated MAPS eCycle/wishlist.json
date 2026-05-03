@@ -1,0 +1,47 @@
+{
+    "1021": [
+        [
+            13,
+            "CPU",
+            "cpu",
+            8000.0,
+            0,
+            "images/cpu.png"
+        ],
+        [
+            16,
+            "Phone",
+            "phone",
+            7000.0,
+            0,
+            "images/phone.png"
+        ]
+    ],
+    "22": [
+        [
+            12,
+            "Laptop",
+            "laptop",
+            30000.0,
+            7,
+            "images/laptop.png"
+        ],
+        [
+            8,
+            "AC",
+            "ac",
+            28000.0,
+            5,
+            "images/ac.png"
+        ],
+        [
+            9,
+            "Fridge",
+            "fridge",
+            18000.0,
+            6,
+            "images/fridge.png"
+        ]
+    ],
+    "23": []
+}

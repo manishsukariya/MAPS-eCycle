@@ -1,0 +1,22 @@
+{
+    "1021": [
+        [
+            14,
+            "Laptop",
+            "laptop",
+            18000.0,
+            1,
+            "images/laptop.png"
+        ],
+        [
+            19,
+            "Fridge",
+            "fridge",
+            14000.0,
+            1,
+            "images/fridge.png"
+        ]
+    ],
+    "22": [],
+    "23": []
+}

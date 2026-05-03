@@ -1,0 +1,64 @@
+{
+    "1025": [
+        {
+            "sender": "seller",
+            "message": "hello"
+        },
+        {
+            "sender": "seller",
+            "message": "hii"
+        },
+        {
+            "sender": "Admin",
+            "message": "hello"
+        },
+        {
+            "sender": "Admin",
+            "message": "hello"
+        },
+        {
+            "sender": "seller",
+            "message": "helli"
+        },
+        {
+            "sender": "Admin",
+            "message": "illeh"
+        }
+    ],
+    "1021": [
+        {
+            "sender": "Admin",
+            "message": "heloo"
+        }
+    ],
+    "3": [
+        {
+            "sender": "Admin",
+            "message": "3"
+        },
+        {
+            "sender": "Admin",
+            "message": "Hello, MAP's eCycle admin here"
+        },
+        {
+            "sender": "Admin",
+            "message": "I got your latest request, tell me your Final Price for it."
+        },
+        {
+            "sender": "seller",
+            "message": "I want Rs.15000 minimum"
+        },
+        {
+            "sender": "Admin",
+            "message": "let's confirm deal"
+        },
+        {
+            "sender": "seller",
+            "message": "yes deal"
+        },
+        {
+            "sender": "Admin",
+            "message": "ok"
+        }
+    ]
+}
